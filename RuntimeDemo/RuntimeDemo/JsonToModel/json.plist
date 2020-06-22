@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>phone</key>
+	<dict>
+		<key>brand</key>
+		<string>Apple</string>
+		<key>version</key>
+		<string>iPhone12</string>
+	</dict>
+	<key>address</key>
+	<string>安徽合肥</string>
+	<key>frends</key>
+	<array>
+		<dict>
+			<key>age</key>
+			<integer>22</integer>
+			<key>name</key>
+			<string>小红</string>
+		</dict>
+		<dict>
+			<key>age</key>
+			<integer>23</integer>
+			<key>name</key>
+			<string>小强</string>
+		</dict>
+	</array>
+	<key>sex</key>
+	<string>man</string>
+	<key>age</key>
+	<integer>24</integer>
+	<key>name</key>
+	<string>小明</string>
+	<key>birth</key>
+	<string>10-22</string>
+</dict>
+</plist>
